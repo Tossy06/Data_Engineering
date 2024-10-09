@@ -8,3 +8,4 @@ let precio_original = 100;
 let porcentaje_descuento = 15;
 
 console.log(`El precio final con descuento es: ${discount(precio_original, porcentaje_descuento)}`);
+
